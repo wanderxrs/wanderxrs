@@ -9,7 +9,7 @@
 ![Wan GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderxrs&show_icons=true&theme=dracula)
 
 
-## Tecnologias que uso
+## Linguagens
 
 <div style="display: flex; gap: 5px;">
 
