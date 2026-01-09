@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nyedsomwander@gmail.com)
 
 
-![Wan GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderxrs&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que uso
