@@ -1,6 +1,6 @@
 ## Olá, sou o Nyedson! Bem vindo!
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+
 
 [![Linkedin](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nyedsomwander@gmail.com)
 
