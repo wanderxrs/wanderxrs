@@ -17,5 +17,12 @@
 
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
 
+<img aling="center" alt="css" src="https://dev.to/badges">
+
+<img aling="center" alt="css" src="https://dev.to/badges">
+
+<img aling="center" alt="css" src="">
+
+<img aling="center" alt="css" src="">
 </div> <br/>
 
