@@ -22,7 +22,6 @@
 <img aling="center" alt="css" src="">
 </div> <br/>
 <div style="background-color:red; height: 200px; height: 200px">
-<h2> ola </h2>
   
 </div>
 
