@@ -1,5 +1,5 @@
 <h2>Bem vindo!</h2>
-hr
+<hr>
 <h3>Nyedson Wander</h3>
 
 <h3>Entre em contato:</h3> 
