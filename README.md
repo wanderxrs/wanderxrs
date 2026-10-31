@@ -22,7 +22,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, criando
 
 ### 💻 Linguagens de Programação
 
-[![Linguagens](https://skillicons.dev/icons?i=js,python&theme=dark,java)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=js,java,python&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Linguagens de Marcação e Estilo
 
