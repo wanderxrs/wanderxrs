@@ -24,7 +24,6 @@
 <div style="background-color:red; height: 200px; height: 200px">
   
 </div>
-###entre em contato
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,java,js)](https://skillicons.dev)
 
 
