@@ -1,29 +1,45 @@
-<h2>Bem vindo!</h2>
-<h3>Nyedson Wander</h3>
 
-<h3>Entre em contato:</h3> 
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nyedsomwander@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyedson-wander-654b893a4/)
+# 👋 Olá, eu sou Nyedson Wander!
 
+### 💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
 
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, criando projetos e explorando novas tecnologias.
 
-## Tecnologias que uso
+### 🌐 Entre em contato
 
-<div style="display: flex; gap: 5px;">
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyedsomwander@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyedson-wander-654b893a4/)
 
-<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-
-<img aling="center" alt="css" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
-
-
-
-<img aling="center" alt="css" src="">
-</div> <br/>
-<div style="background-color:red; height: 200px; height: 200px">
-  
 </div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+---
 
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Linguagens de Programação
+
+[![Linguagens](https://skillicons.dev/icons?i=js,python&theme=dark)](https://skillicons.dev)
+
+### 🎨 Linguagens de Marcação e Estilo
+
+[![HTML e CSS](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Frameworks e Bibliotecas
+
+[![Frameworks](https://skillicons.dev/icons?i=react,flask&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Ferramentas e Plataformas
+
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+<div align="center">
+
+### ✨ Sempre aprendendo, construindo e evoluindo.
+
+</div>
