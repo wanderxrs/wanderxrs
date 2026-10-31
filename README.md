@@ -24,6 +24,6 @@
 <div style="background-color:red; height: 200px; height: 200px">
   
 </div>
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,java,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,)](https://skillicons.dev)
 
 
