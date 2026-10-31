@@ -1,5 +1,4 @@
 <h2>Bem vindo!</h2>
-<hr>
 <h3>Nyedson Wander</h3>
 
 <h3>Entre em contato:</h3> 
@@ -26,5 +25,6 @@
   
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
