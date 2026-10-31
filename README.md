@@ -35,11 +35,3 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, criando
 ### 🛠️ Ferramentas e Plataformas
 
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
-
----
-
-<div align="center">
-
-### ✨ Sempre aprendendo, construindo e evoluindo.
-
-</div>
