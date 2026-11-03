@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Nyedson Wander!!
+# 👋 Olá, eu sou Nyedson Wander!
 
 ### 💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
